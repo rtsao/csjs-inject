@@ -1,0 +1,18 @@
+{
+  "name": "csjs-inject",
+  "version": "0.0.0-alpha.0",
+  "description": "csjs with auto-injection of styles",
+  "author": "Ryan Tsao <ryan.j.tsao@gmail.com>",
+  "main": "index.js",
+  "homepage": "https://github.com/rtsao/csjs-inject",
+  "repository": "git@github.com:rtsao/csjs-inject.git",
+  "bugs": "https://github.com/rtsao/csjs-inject/issues",
+  "dependencies": {
+    "csjs": "0.x - 1.x",
+    "insert-css": "^0.2.0"
+  },
+  "engines": {
+    "node": "^4.0.0"
+  },
+  "license": "MIT"
+}
