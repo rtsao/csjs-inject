@@ -1,6 +1,6 @@
 {
   "name": "csjs-inject",
-  "version": "1.0.0-beta.0",
+  "version": "1.0.0",
   "description": "CSJS with auto-injection of styles",
   "author": "Ryan Tsao <ryan.j.tsao@gmail.com>",
   "main": "index.js",
