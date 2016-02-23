@@ -11,5 +11,4 @@ function csjsInserter() {
 }
 
 module.exports = csjsInserter;
-module.exports.csjs = csjsInserter;
 module.exports.getCss = csjs.getCss;
